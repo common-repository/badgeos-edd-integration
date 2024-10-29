@@ -1,0 +1,64 @@
+.branding {
+    float: left;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    background-color: #fefefe;
+    border-radius: 4px;
+    border-bottom: 3px solid #46b450;
+    padding: 10px;
+    width: 98%;
+    font-size: 15px;
+}
+.branding-logo {
+    float: left;
+    width: 150px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.branding-text {
+    float: left;
+    width: 70%;
+}
+.bosedd-settings-wrapper {
+    max-width: 95%;
+}
+.input-row {
+    margin-bottom: 15px;
+}
+.bosedd-settings-wrapper table tr td {
+    padding-bottom: 15px;
+    padding-right: 15px;
+}
+.label-textarea {
+    display: block;
+    font-size: 15px;
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+.label {
+    font-size: 15px;
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+.bosedd-settings-wrapper input,
+.bosedd-settings-wrapper textarea,
+.bosedd-settings-wrapper button {
+    vertical-align: bottom;
+    padding: 10px 12px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.submit-button {
+    margin: 20px 0;
+    text-align: right;
+}
+#setting_tabs {
+    padding: 0;
+}
+#setting_tabs p.submit {
+    padding: 1em 1.4em;
+}
+.hidden {
+    display: none;
+}
